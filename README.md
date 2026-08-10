@@ -134,7 +134,7 @@ Cancellation rates vary across market segments, but the analysis suggests that t
 
 ![Data Visualization](data_cleaning_project/Images/data_visualization.png)
 
-> The detailed analysis, visualizations and supporting calculations are available in the [Jupyter Notebook](data_cleaning.ipynb).
+> The detailed analysis, visualizations and supporting calculations are available in the [Jupyter Notebook](data_cleaning_project/Notebooks/data_cleaning.ipynb).
 
 ---
 
