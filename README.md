@@ -169,8 +169,6 @@ The dashboard is designed to complement the Python analysis by allowing the user
 
 ![Power BI Dashboard](data_cleaning_project/Images/power_bi_dashboard.png)
 
-![Market Segment Page](data_cleaning_project/Images/market_segment.png)
-
 ---
 
 ## Key Findings
@@ -248,7 +246,6 @@ data_cleaning_project/
 │   ├── data_correction.png
 │   ├── data_visualization.png
 │   ├── data_quality_issues.png
-│   ├── market_segment.png
 │   └── power_bi_dashboard.png
 │
 ├── notebooks/
@@ -268,7 +265,6 @@ data_cleaning_project/
 | `data_correction.png`                     | Data Correction Image                  |
 | `data_quality_issues.png`                 | Data Quality Issues Image              |
 | `data_visualization.png`                  | Data Visualization Image               |
-| `market_segment.png`                      | Market Segment image                   |
 | `power_bi_dashboard.png`                  | Power BI image                         |
 |`data_cleaning.ipynb`                      | Data Cleaning and Exploratory Analysis |
 | `hotel_dashboard.pbix`                    | Data Visualization                     |
