@@ -51,7 +51,7 @@ An interactive Power BI dashboard was created to visualise the main Revenue Mana
 
 ![Power BI Dashboard](data_cleaning_project/Images/power_bi_dashboard.png)
 
-**[View the interactive Power BI Dashboard →](TU_POWER_BI_LINK)**
+**[View the interactive Power BI Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNTdlMGY0YjQtNjVkNC00ZmQ5LTliYWQtYjBhMWE4MGI0ZDI2IiwidCI6IjcxYmIzNDU4LWQ3NWYtNDcxNi1hNWNiLTY0N2NkYWNiYzBhZiIsImMiOjh9)**
 
 ---
 
